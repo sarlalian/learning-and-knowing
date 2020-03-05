@@ -1,1 +1,5 @@
 wiki/*
+youtrack/.env
+youtrack/opt/*
+arista/lab/cEOS-lab-*.tar
+arista/lab/cEOS-lab-*.tar.gz
